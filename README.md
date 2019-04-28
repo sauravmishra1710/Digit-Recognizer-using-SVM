@@ -15,3 +15,7 @@ The data set used for this problem is from the populat MNIST data set. Developed
 ## Goal
 The goal in this competition is to take an image of a handwritten single digit, and determine what that digit is.
 For every image in the test set, the label should be predicted.
+
+## Results
+Kaggle Score - **0.98714**
+Analytics Vidhya Score - **0.97547**
