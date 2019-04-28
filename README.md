@@ -17,5 +17,5 @@ The goal in this competition is to take an image of a handwritten single digit, 
 For every image in the test set, the label should be predicted.
 
 ## Results
-Kaggle Score - **0.98714**
+Kaggle Score - **0.98714** </br>
 Analytics Vidhya Score - **0.97547**
